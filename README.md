@@ -1,8 +1,22 @@
-- 👋 Hi, I’m @Klohier
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML/CSS/JS/PHP
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Keiji Lohier
+
+Full-stack developer building clean, well-designed systems from backend services to user-facing apps.
+
+
+🛠 Tech
+
+`Go`  `TypeScript`  `React` `PostgreSQL` 
+`APIs`  `Auth`   `WebSockets` `Javascript` `Redis` `Python`
+
+🚧 Projects
+
+- DnBoxes (Dots and Boxes)
+- Commander Roulette (Commander Card Picker Tinder Like)
+
+🧠 Interests
+
+`System design`  `UX`  `Real-time apps`  `Security`
+
 
 <!---
 Klohier/Klohier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
