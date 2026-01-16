@@ -8,10 +8,6 @@ Full-stack developer building clean, well-designed systems from backend services
 `Go`  `TypeScript`  `React` `PostgreSQL` 
 `APIs`  `Auth`   `WebSockets` `Javascript` `Redis` `Python`
 
-🚧 Projects
-
-- DnBoxes (Dots and Boxes)
-- Commander Roulette (Commander Card Picker Tinder Like)
 
 🧠 Interests
 
